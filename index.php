@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="css/popcorn.css">
-<!-- trying out git -->
+<!--  out git -->
 <script type="text/javascript">
 
 function loadvideofile(){
