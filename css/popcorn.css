@@ -18,6 +18,7 @@ body {background-color: #DEEBED}
 	margin: 0 auto;
 }
 .player{
+
 	position: absolute;
 	width:590px;
 	height:345px;
@@ -36,7 +37,16 @@ body {background-color: #DEEBED}
 	        box-shadow: 0 10px 6px -6px #777;
 	
 }
+
+.imageload{
+	z-index: 1000;
+	position: absolute;
+	top:200px;
+	left:10px;
+	width:100px;height:100px;
+}
 .insideplayer{
+	z-index: -1;
 	width:558px;
 	height:313px;
 	background-color:white;
